@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{53971D3D-D8E5-47C7-82D5-1146FE96EE31}") = "SignSynth", "Assembly-CSharp.csproj", "{7CC5797B-6223-0218-F286-7AA12093C8EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC5797B-6223-0218-F286-7AA12093C8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC5797B-6223-0218-F286-7AA12093C8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC5797B-6223-0218-F286-7AA12093C8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC5797B-6223-0218-F286-7AA12093C8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
